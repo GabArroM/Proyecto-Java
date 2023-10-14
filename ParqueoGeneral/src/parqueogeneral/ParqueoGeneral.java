@@ -1,5 +1,5 @@
 
-package parquegeneral;
+package parqueogeneral;
 
 public class ParqueoGeneral {
 
