@@ -15,6 +15,6 @@ public class ParqueoGeneral {
         InfoScreen screen = new InfoScreen();
         screen.setVisible(true);
         screen.setLocationRelativeTo(null);
-    }
+        }
     
 }
